@@ -12,4 +12,4 @@ It will install heartbeat watcher. Then you can import the package like this in 
 
 `from heartbeat_watcher import HeartbeatMonitor`
 
-Check out [this example](https://github.com/lagerstrom/heartbeat_watcher/blob/main/examples/example.py) for more details. 
+Check out [this example](https://github.com/lagerstrom/heartbeat_watcher/blob/main/examples/celery.py) for more details.
